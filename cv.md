@@ -6,7 +6,7 @@ _e-mail:_ gorbunova.kate29@gmail.com
 _skype:_ ketti_29
 
 _Summary:_ 
-
+After over 7 years in testing, I want to try another side of development, get new skills and change job area. 
 
 _Skills:_
 
