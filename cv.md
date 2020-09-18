@@ -7,14 +7,15 @@ _skype:_ ketti_29
 
 _Summary:_ 
 
+
 _Skills:_
 
-*SQL
-*Selenium
-*Bitbacket
-*Jenkins
-*Postman
-*Agile, Kanban, Waterfall
+* SQL
+* Selenium
+* Bitbacket
+* Jenkins
+* Postman
+* Agile, Kanban, Waterfall
 
 _Experience:_ Great hands-on experience in testing. Deep background banking systems testing. Internal courses on Automated testing in Java.
 
